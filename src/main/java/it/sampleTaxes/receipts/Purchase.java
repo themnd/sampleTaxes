@@ -5,7 +5,7 @@ import it.sampleTaxes.orders.ProductOrder;
 import java.math.BigDecimal;
 
 /**
- * Rappresent a product purchase.
+ * Represent a product purchase.
  *
  * @author mnova
  */
